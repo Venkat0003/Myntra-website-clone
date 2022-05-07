@@ -1,0 +1,69 @@
+.banners>h4{
+    /* margin:auto; */
+    text-transform: uppercase;
+  color: #3e4152;
+  letter-spacing: .15em;
+  font-size: 1.8em;
+  margin: 50px 0 10px 30px;
+  max-height: 5em;
+  font-weight: 500;
+  margin-left: 100px;
+  }
+  .cattobag{
+    display:flex;
+     margin:auto;
+     width:95%; 
+   
+  }
+  .cattobag>div>img{
+     margin:auto;
+      width:95%;
+      margin-top: 40px;
+      /* margin-right:25px; */
+     /* height:95%;  */
+     /* justify-items:space-between; */
+  }
+  .kidsitems{
+    display:flex;
+    margin:auto;
+    /* width:95%;  */
+  }
+  .kidsitems>div>img{
+    margin:auto;
+      width:100%;
+     margin-top: 40px;
+     /* margin-right:25px; */
+    /* height:95%;  */
+    /* justify-items:space-between; */
+ }
+ .kidsitems2{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows:repeat(1,auto) ;
+    margin:auto;
+    /* width:95%;  */
+  }
+  .kidsitems2>div>img{
+    margin:auto;
+      width:100%;
+     margin-top: 40px;
+     /* margin-right:25px; */
+    /* height:95%;  */
+    /* justify-items:space-between; */
+ }
+ .kidsitems3{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows:repeat(1,auto) ;
+    margin:auto;
+    /* width:95%;  */
+  }
+  .kidsitems3>div>img{
+    margin:auto;
+      width:100%;
+     margin-top: 40px;
+     /* margin-right:25px; */
+    /* height:95%;  */
+    /* justify-items:space-between; */
+ }
+
